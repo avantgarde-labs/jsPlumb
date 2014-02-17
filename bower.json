@@ -27,5 +27,9 @@
     "jsdoc.json",
     "package.json",
     "todo.txt"
-  ]
+  ],
+  "main": ["./dist/js/jquery.jsPlumb.js"],
+  "dependencies": {
+    "jquery": ">=1"
+  }  
 }
